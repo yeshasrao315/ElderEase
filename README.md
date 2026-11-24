@@ -9,15 +9,15 @@ Proposed Solution:-
 ElderEase connects everyday care tools to help manage reminders, appointments, and caregiver notifications in one place.
 
 Key Features:-
-Medicine schedule reminders
-Appointment and calendar reminders
-Care confirmation and check-ins
-Family caregiver notifications
+Medicine schedule reminders,
+Appointment and calendar reminders,
+Care confirmation and check-ins,
+Family caregiver notifications,
 User-controlled sharing
 
 Technology:-
-Model Context Protocol (MCP)
-AI assistant
-Calendar integration
-Notification service
+Model Context Protocol (MCP),
+AI assistant,
+Calendar integration,
+Notification service,
 Backend and database
